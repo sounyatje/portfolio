@@ -10,50 +10,50 @@ export const Work = [
     },
     {
         id: 2,
-        name: "Coach App",
-        description: "A mobile coaching app built with React Native and Expo using stack navigation.",
-        tags: ["react native", "expo", "react-stack navigation"],
-        demo: "",
-        github: "https://github.com/nasserESI/coach-app"
+        name: "Coach Mobile App",
+        description: "A mobile coaching app built with React Native for instrcutors.",
+        tags: ["react native", "expo", "nativewind"],
+        demo: "no demo, use your phone and download expo to see the results",
+        github: "https://github.com/hellobrussels/coach-app-react-native.git"
     },
     {
         id: 3,
-        name: "Aggregator",
-        description: "An Express.js app serving learning content through REST APIs with Node.js.",
-        tags: ["node js", "express.js"],
-        demo: "",
-        github: "https://github.com/sounyatje/agregator"
+        name: "Customer Mobile App",
+        description: "A mobile coaching app built with React Native for customers.",
+        tags: ["react native", "expo", "cypress"],
+        demo: "no demo, use your phone and download expo to see the results",
+        github: "https://github.com/hellobrussels/client-app-react-native"
     },
     {
         id: 4,
-        name: "School Workshop Cat Finder",
-        description: "A form-based JavaScript site made during a workshop to practice DOM handling.",
-        tags: ["javascript", "html", "css"],
-        demo: "https://workshop-interface3.vercel.app/index.html",
-        github: "https://github.com/sounyatje/workshop-interface3"
+        name: "To Do List",
+        description: "Todo list with redux applied",
+        tags: ["Redux","React"],
+        demo: "https://todolist-react-js-ashy.vercel.app/",
+        github: "https://github.com/sounyatje/todolistREACT.JS"
     },
     {
         id: 5,
-        name: "Candy Machine",
-        description: "A JavaScript game simulating a candy dispenser, built with core JS concepts.",
-        tags: ["javascript", "html", "css"],
-        demo: "https://nezuko-green.vercel.app/",
-        github: "https://github.com/sounyatje/distributeur-boisson"
+        name: "Movie Library",
+        description: "",
+        tags: ["Node.js"],
+        demo: "no demo available",
+        github: "https://github.com/sounyatje/movies-final"
     },
     {
         id: 6,
-        name: "Pokedex",
-        description: "A React-based app to browse Pokémon using data from an external API.",
-        tags: ["react", "css"],
-        demo: "https://pokedex-nine-indol.vercel.app/",
-        github: "https://github.com/sounyatje/pokedex"
+        name: "Agregator",
+        description: "",
+        tags: ["Node.js", "Express.js"],
+        demo: "no demo available",
+        github: "https://github.com/sounyatje/agregator"
     },
     {
         id: 7,
-        name: "Todo List",
-        description: "A simple React app to manage daily tasks using state and hooks.",
-        tags: ["react", "css"],
-        demo: "https://vercel.com/sounyas-projects/todolist-react-js",
-        github: "https://github.com/sounyatje/todolist"
+        name: "Quizz Wordpress",
+        description: "A",
+        tags: ["typescript"],
+        demo: "no demo available",
+        github: "https://github.com/sounyatje/quiz-wp"
     }
 ];
