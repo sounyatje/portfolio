@@ -42,10 +42,12 @@ export const Work = [
     },
     {
        id: 6,
-        name: "Agregator",
-        description: "This is a content aggregator that collects information about trains, weather, and news, and displays it in English.",
-    tags: ["Node.js","Express.js"],
-    github: "https://github.com/sounyatje/agregator"
+        name: "Agregator",
+        description:"This is a content aggregator that collects information about trains, weather, and news",
+        tags: ["Node.js","Express.js"],
+    
+        github: "https://github.com/sounyatje/agregator"
+
     },
     {
         id: 7,
