@@ -46,8 +46,7 @@ export const Work = [
   {
     id: 6,
     name: "Agregator",
-    description:
-      "This is a content aggregator that collects information about trains, weather, and news. No demo available",
+    description: "This is a content aggregator that collects information about trains, weather, and news. No demo available",
     tags: ["Node.js", "Express.js"],
     demo: "",
     github: "https://github.com/sounyatje/agregator",
