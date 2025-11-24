@@ -4,7 +4,7 @@ export const Work = [
         id: 1,
         name: "Coach Website",
         description: "React website with a Node.js backend to manage form submissions and data flow.",
-        tags: ["react", "node.js", "react-router","jotai"],
+        tags: ["react", "node.js","react-router","jotai"],
         demo: "https://projet-react-2-decembre.vercel.app/",
         github: "https://github.com/sounyatje/projet-react-2-decembre"
     },
@@ -44,13 +44,13 @@ export const Work = [
        id: 6,
         name: "Agregator",
         description: "This is a content aggregator that collects information about trains, weather, and news, and displays it in English.",
-    tags: ["Node.js", "Express.js"],
+    tags: ["Node.js","Express.js"],
     github: "https://github.com/sounyatje/agregator"
     },
     {
         id: 7,
         name: "Quizz Wordpress",
-        description: "A",
+        description: "A quizz using react as frontend and wordpress as backend.",
         tags: ["typescript"],
 
         github: "https://github.com/sounyatje/quiz-wp"
