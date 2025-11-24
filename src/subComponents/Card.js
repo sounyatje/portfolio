@@ -124,28 +124,14 @@ const Card = (props) => {
                     })
                 }
             </Tags>
-            {/* <Footer>
+            <Footer>
                 <Link href={demo} target="_blank">
                     Visit
                 </Link>
                 <Git  href={github}  target="_blank">
                     <Github width={30} height={30} />
                 </Git>
-            </Footer> */}
-
-            <Footer>
-  {demo ? (
-    <Link href={demo} target="_blank">
-      Visit
-    </Link>
-  ) : (
-    <span style={{color:"gray", fontSize:"0.9em", marginRight:"5px"}}>Démo non disponible</span>
-  )}
-  <Git href={github} target="_blank">
-    <Github width={30} height={30} />
-  </Git>
-</Footer>
-
+            </Footer> 
         </Box>
     )
 }
